@@ -1,10 +1,12 @@
 
 define([
 	'jquery',
+	'bootstrap',
 	'underscore',
 	'backbone'
 ], function (
 	$,
+	Bootstrap,
 	_,
 	Backbone
 ) {
